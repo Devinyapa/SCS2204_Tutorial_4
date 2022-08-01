@@ -1,0 +1,2621 @@
+INFO  time: initialize in 0.24s
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\one.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\one.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.63s
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.27s
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  shutting down Metals
+INFO  time: initialize in 0.28s
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+  C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+INFO  time: initialize in 0.37s
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build tool detected in workspace 'C:\Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: C:\Scala\build.sbt
+WARN  no build target: C:\Scala\build.sbt
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.85s
+WARN  Skipping build import for unsupported sbt version <unknown>
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\build.sbt
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\project\build.properties
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+INFO  running 'C:\Program Files\Java\jdk-18.0.1.1\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Devin\AppData\Local\Temp\metals8272024277555564686\sbt-launch.jar metalsEnable bloopInstall'
+ERROR Getting org.fusesource.jansi jansi 1.11  (this may take some time)...
+INFO  downloading https://repo1.maven.org/maven2/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar ...
+INFO  	[SUCCESSFUL ] org.fusesource.jansi#jansi;1.11!jansi.jar (1949ms)
+INFO  :: retrieving :: org.scala-sbt#boot-jansi
+INFO  	confs: [default]
+INFO  	1 artifacts copied, 0 already retrieved (111kB/14ms)
+INFO  [info] welcome to sbt 1.7.1 (Oracle Corporation Java 18.0.1.1)
+INFO  [info] loading settings for project global-plugins from metals.sbt ...
+INFO  [info] loading global plugins from C:\Users\Devin\.sbt\1.0\plugins
+INFO  [warn] 
+INFO  [warn] 	Note: Unresolved dependencies path:
+INFO  [error] sbt.librarymanagement.ResolveException: Error downloading org.scala-sbt:tasks_2.12:1.7.1
+INFO  [error]   Not found
+INFO  [error]   Not found
+INFO  [error]   not found: C:\Users\Devin\AppData\Local\Coursier\Cache\v1\.structure.lock (Access is denied)
+INFO  [error]   not found: C:\Users\Devin\.ivy2\localorg.scala-sbt\tasks_2.12\1.7.1\ivys\ivy.xml
+INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/tasks_2.12/1.7.1/ivys/ivy.xml
+INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tasks_2.12/1.7.1/ivys/ivy.xml
+INFO  [error] 	at lmcoursier.CoursierDependencyResolution.unresolvedWarningOrThrow(CoursierDependencyResolution.scala:345)
+INFO  [error] 	at lmcoursier.CoursierDependencyResolution.$anonfun$update$38(CoursierDependencyResolution.scala:314)
+INFO  [error] 	at scala.util.Either$LeftProjection.map(Either.scala:573)
+INFO  [error] 	at lmcoursier.CoursierDependencyResolution.update(CoursierDependencyResolution.scala:314)
+INFO  [error] 	at sbt.librarymanagement.DependencyResolution.update(DependencyResolution.scala:60)
+INFO  [error] 	at sbt.internal.LibraryManagement$.resolve$1(LibraryManagement.scala:59)
+INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$12(LibraryManagement.scala:133)
+INFO  [error] 	at sbt.util.Tracked$.$anonfun$lastOutput$1(Tracked.scala:73)
+INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$20(LibraryManagement.scala:146)
+INFO  [error] 	at scala.util.control.Exception$Catch.apply(Exception.scala:228)
+INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11(LibraryManagement.scala:146)
+INFO  [error] 	at sbt.internal.LibraryManagement$.$anonfun$cachedUpdate$11$adapted(LibraryManagement.scala:127)
+INFO  [error] 	at sbt.util.Tracked$.$anonfun$inputChangedW$1(Tracked.scala:219)
+INFO  [error] 	at sbt.internal.LibraryManagement$.cachedUpdate(LibraryManagement.scala:160)
+INFO  [error] 	at sbt.Classpaths$.$anonfun$updateTask0$1(Defaults.scala:3688)
+INFO  [error] 	at scala.Function1.$anonfun$compose$1(Function1.scala:49)
+INFO  [error] 	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:62)
+INFO  [error] 	at sbt.std.Transform$$anon$4.work(Transform.scala:68)
+INFO  [error] 	at sbt.Execute.$anonfun$submit$2(Execute.scala:282)
+INFO  [error] 	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:23)
+INFO  [error] 	at sbt.Execute.work(Execute.scala:291)
+INFO  [error] 	at sbt.Execute.$anonfun$submit$1(Execute.scala:282)
+INFO  [error] 	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)
+INFO  [error] 	at sbt.CompletionService$$anon$2.call(CompletionService.scala:64)
+INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+INFO  [error] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+INFO  [error] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+INFO  [error] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+INFO  [error] 	at java.base/java.lang.Thread.run(Thread.java:833)
+INFO  [error] (update) sbt.librarymanagement.ResolveException: Error downloading org.scala-sbt:tasks_2.12:1.7.1
+INFO  [error]   Not found
+INFO  [error]   Not found
+INFO  [error]   not found: C:\Users\Devin\AppData\Local\Coursier\Cache\v1\.structure.lock (Access is denied)
+INFO  [error]   not found: C:\Users\Devin\.ivy2\localorg.scala-sbt\tasks_2.12\1.7.1\ivys\ivy.xml
+INFO  [error]   not found: https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.scala-sbt/tasks_2.12/1.7.1/ivys/ivy.xml
+INFO  [error]   not found: https://repo.typesafe.com/typesafe/ivy-releases/org.scala-sbt/tasks_2.12/1.7.1/ivys/ivy.xml
+INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)
+INFO  build tool exit: 1
+INFO  time: ran 'sbt bloopInstall' in 43s
+ERROR sbt command failed: C:\Program Files\Java\jdk-18.0.1.1\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Devin\AppData\Local\Temp\metals8272024277555564686\sbt-launch.jar metalsEnable bloopInstall
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+INFO  running 'C:\Program Files\Java\jdk-18.0.1.1\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\Devin\AppData\Local\Temp\metals11372717977452504760\sbt-launch.jar metalsEnable bloopInstall'
+INFO  [info] welcome to sbt 1.7.1 (Oracle Corporation Java 18.0.1.1)
+INFO  [info] loading settings for project global-plugins from metals.sbt ...
+INFO  [info] loading global plugins from C:\Users\Devin\.sbt\1.0\plugins
+INFO  [info] loading project definition from C:\Scala\project
+INFO  [success] Generated .bloop\scala-build.json
+INFO  [success] Total time: 2 s, completed Jul 16, 2022, 12:15:26 AM
+INFO  [info] loading settings for project scala from build.sbt ...
+INFO  [info] set current project to HelloAkka (in build file:/C:/Scala/)
+INFO  [info] set current project to HelloAkka (in build file:/C:/Scala/)
+INFO  [info] semanticdb-scalac is enabled
+INFO  [success] Generated .bloop\scala-test.json
+INFO  [success] Generated .bloop\scala.json
+INFO  [success] Total time: 9 s, completed Jul 16, 2022, 12:15:45 AM
+INFO  build tool exit: 0
+INFO  time: ran 'sbt bloopInstall' in 38s
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+Jul 16, 2022 12:16:44 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Jul 16, 2022 12:17:09 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Jul 16, 2022 12:17:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+Jul 16, 2022 12:17:13 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.memberType(scala.reflect.internal.Symbols$Symbol)" because "pre" is null
+	at scala.meta.internal.pc.HoverProvider.seenFromType(HoverProvider.scala:106)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:42)
+
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Installed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\project\build.properties
+INFO  skipping build import with status 'Installed'
+WARN  no build target: C:\Scala\build.sbt
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Installed'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+  C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+Jul 16, 2022 10:25:30 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 16, 2022 10:25:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: file:///C:/Scala/test.scala: 106 >= 106
+java.lang.AssertionError: assertion failed: file:///C:/Scala/test.scala: 106 >= 106
+	at scala.reflect.internal.util.SourceFile.position(SourceFile.scala:33)
+	at scala.tools.nsc.CompilationUnits$CompilationUnit.position(CompilationUnits.scala:128)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:21)
+
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+Jul 16, 2022 10:35:05 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 16, 2022 10:35:05 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: file:///C:/Scala/test.scala: 115 >= 115
+java.lang.AssertionError: assertion failed: file:///C:/Scala/test.scala: 115 >= 115
+	at scala.reflect.internal.util.SourceFile.position(SourceFile.scala:33)
+	at scala.tools.nsc.CompilationUnits$CompilationUnit.position(CompilationUnits.scala:128)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:21)
+
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+Jul 17, 2022 12:07:10 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Jul 17, 2022 12:07:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed: file:///C:/Scala/test.scala: 186 >= 186
+java.lang.AssertionError: assertion failed: file:///C:/Scala/test.scala: 186 >= 186
+	at scala.reflect.internal.util.SourceFile.position(SourceFile.scala:33)
+	at scala.tools.nsc.CompilationUnits$CompilationUnit.position(CompilationUnits.scala:128)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:21)
+
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.28s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\build.sbt
+WARN  no build target: C:\Scala\project\build.properties
+INFO  skipping build import with status 'Requested'
+INFO  shutting down Metals
+INFO  time: initialize in 0.31s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\build.sbt
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.35s
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\build.sbt
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+INFO  shutting down Metals
+INFO  time: initialize in 0.67s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\test.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.34s
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q1.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q2.scala
+WARN  no build target: C:\Scala\q3.scala
+WARN  no build target: C:\Scala\q3.scala
+Jul 17, 2022 4:28:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///C:/Scala/q3.sacala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: C:\Scala\q3.sacala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3289)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:725)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:724)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:724)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:689)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+WARN  no build target: C:\Scala\q4.scala
+WARN  no build target: C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q5.scala
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\q3.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q3.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q3.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q3.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+  C:\Scala\q2.scala
+  C:\Scala\q3.scala
+  C:\Scala\q4.scala
+  C:\Scala\q5.scala
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q5.scala
+  C:\Scala\build.sbt
+  C:\Scala\project\build.properties
+  C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+  C:\Scala\q1.scala
+  C:\Scala\q1.scala
+  C:\Scala\q2.scala
+  C:\Scala\q2.scala
+  C:\Scala\q3.scala
+  C:\Scala\q3.scala
+  C:\Scala\q4.scala
+  C:\Scala\q4.scala
+  C:\Scala\test.scala
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q5.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q4.scala
+  C:\Scala\q5.scala
+  C:\Scala\q1.scala
+  C:\Scala\q2.scala
+  C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+  C:\Scala\q1.scala
+  C:\Scala\q2.scala
+  C:\Scala\q3.scala
+  C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q5.scala
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\build.sbt
+  C:\Scala\q1.scala
+  C:\Scala\q3.scala
+  C:\Scala\q4.scala
+  C:\Scala\q5.scala
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\q4.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q4.scala
+  C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q4.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q1.scala
+WARN  no build target: C:\Scala\project\build.properties
+WARN  no build target: C:\Scala\build.sbt
+  C:\Scala\q1.scala
+  C:\Scala\q2.scala
+  C:\Scala\q3.scala
+  C:\Scala\q4.scala
+  C:\Scala\q5.scala
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\project\build.properties
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\build.sbt
+  C:\Scala\q1.scala
+  C:\Scala\q2.scala
+  C:\Scala\q3.scala
+  C:\Scala\q4.scala
+  C:\Scala\q5.scala
+  C:\Scala\test.scala
+INFO  skipping build import with status 'Requested'
+INFO  shutting down Metals
+INFO  time: initialize in 0.31s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: C:\Scala\q1.scala
+WARN  no build target: C:\Scala\q2.scala
+WARN  no build target: C:\Scala\q3.scala
+WARN  no build target: C:\Scala\q4.scala
+WARN  no build target: C:\Scala\q5.scala
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\test.scala
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+INFO  no build target: using presentation compiler with only scala-library
+WARN  code navigation does not work for the file 'C:\Scala\test.scala' because it doesn't belong to a build target.
+INFO  shutting down Metals
+INFO  time: initialize in 0.35s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\q1.scala
+WARN  no build target: C:\Scala\q2.scala
+WARN  no build target: C:\Scala\q3.scala
+WARN  no build target: C:\Scala\q4.scala
+WARN  no build target: C:\Scala\q5.scala
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\test.scala
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\Tutorial 4\q1.scala
+WARN  no build target: C:\Scala\Tutorial 4\q2.scala
+WARN  no build target: C:\Scala\Tutorial 4\q3.scala
+INFO  shutting down Metals
+INFO  time: initialize in 0.28s
+INFO  skipping build import with status 'Requested'
+WARN  no build target: C:\Scala\q1.scala
+WARN  no build target: C:\Scala\q2.scala
+WARN  no build target: C:\Scala\q3.scala
+WARN  no build target: C:\Scala\q4.scala
+WARN  no build target: C:\Scala\q5.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: C:\Scala\test.scala
+Aug 01, 2022 5:16:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///C:/Scala/test.scala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: C:\Scala\test.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3289)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:725)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:724)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:724)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:689)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+Aug 01, 2022 5:16:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///C:/Scala/q5.scala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: C:\Scala\q5.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3289)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:725)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:724)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:724)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:689)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+Aug 01, 2022 5:16:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "workspace/didChangeWatchedFiles",
+  "params": {
+    "changes": [
+      {
+        "uri": "file:///C:/Scala/q4.scala",
+        "type": 3
+      }
+    ]
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:192)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:119)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: C:\Scala\q4.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3289)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1(MetalsLanguageServer.scala:725)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$1$adapted(MetalsLanguageServer.scala:724)
+	at scala.collection.immutable.Stream.foreach(Stream.scala:533)
+	at scala.meta.internal.metals.MetalsLanguageServer.onChange(MetalsLanguageServer.scala:724)
+	at scala.meta.internal.metals.MetalsLanguageServer.didChangeWatchedFiles(MetalsLanguageServer.scala:689)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	... 13 more
+
+WARN  no build target: C:\Scala\q3.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q1.scala
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+INFO  skipping build import with status 'Requested'
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q1.scala
+WARN  no build target: 
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+2022.08.01 18:50:21 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Scala\.metals\lsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 18:50:22 INFO  logging to file C:\Scala\.metals\metals.log
+2022.08.01 18:50:22 INFO  Started: Metals version 0.11.7 in workspace 'C:\Scala' for client Visual Studio Code 1.69.2.
+2022.08.01 18:50:23 INFO  time: initialize in 1.07s
+2022.08.01 18:50:23 INFO  Deleting old database format C:\Scala\.metals\metals.h2.db
+2022.08.01 18:50:23 ERROR java.nio.file.FileSystemException: C:\Scala\.metals\metals.h2.db: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:274)
+	at sun.nio.fs.AbstractFileSystemProvider.delete(AbstractFileSystemProvider.java:105)
+	at java.nio.file.Files.delete(Files.java:1142)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.delete(MetalsEnrichments.scala:522)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:104)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:55)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.initialized(MetalsLanguageServer.scala:977)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.08.01 18:50:23 INFO  Deleting old database format C:\Scala\.metals\metals.h2.db
+2022.08.01 18:50:23 ERROR unable to setup persistent H2 database with AUTO_SERVER=false, falling back to in-memory database. This means you may be redundantly asked to execute 'Import build', even if it's not needed. Also, code navigation will not work for existing files in the .metals/readonly/ directory. To fix this problem, make sure you only have one running Metals server in the directory 'C:\Scala'.java.nio.file.FileSystemException: C:\Scala\.metals\metals.h2.db: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:274)
+	at sun.nio.fs.AbstractFileSystemProvider.delete(AbstractFileSystemProvider.java:105)
+	at java.nio.file.Files.delete(Files.java:1142)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.delete(MetalsEnrichments.scala:522)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:104)
+	at scala.meta.internal.metals.Tables.tryNoAutoServer(Tables.scala:72)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:66)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.initialized(MetalsLanguageServer.scala:977)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.08.01 18:50:23 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 18:50:24 INFO  Attempting to connect to the build server...
+2022.08.01 18:50:24 INFO  Setting up current java home C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 in C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:50:36 INFO  no build target found for C:\Scala\q1.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.01 18:50:39 INFO  time: code lens generation in 12s
+2022.08.01 18:50:39 INFO  time: code lens generation in 2.98s
+2022.08.01 18:50:39 INFO  time: code lens generation in 2.98s
+2022.08.01 18:50:39 INFO  time: code lens generation in 2.98s
+2022.08.01 18:50:39 INFO  time: code lens generation in 2.98s
+2022.08.01 18:50:39 INFO  time: code lens generation in 2.98s
+2022.08.01 18:50:39 INFO  time: code lens generation in 2.99s
+2022.08.01 18:50:39 INFO  time: code lens generation in 12s
+2022.08.01 18:50:39 INFO  time: code lens generation in 12s
+2022.08.01 18:50:39 INFO  time: code lens generation in 12s
+2022.08.01 18:51:12 ERROR Starting the bsp launcher for bloop...
+2022.08.01 18:51:12 ERROR Opening a bsp server connection with 'bsp --protocol tcp --port 42884'...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR Waiting for the bsp connection to come up...
+2022.08.01 18:51:12 ERROR error: Giving up on waiting for a connection, printing embedded bloop logs:
+2022.08.01 18:51:12 ERROR > No server running at 127.0.0.1:8212, let's fire one...
+2022.08.01 18:51:12 ERROR > Resolving ch.epfl.scala:bloop-frontend_2.12:1.5.2...
+2022.08.01 18:51:12 ERROR error: The launcher failed to establish a bsp connection, aborting...
+2022.08.01 18:51:12 ERROR Failed to connect with build server, no functionality will work.java.lang.RuntimeException: The server did not start, got FailedToOpenBspConnection
+	at bloop.launcher.LauncherMain.failPromise$1(Launcher.scala:92)
+	at bloop.launcher.LauncherMain.runLauncher(Launcher.scala:119)
+	at scala.meta.internal.metals.BloopServers$$anon$2.run(BloopServers.scala:496)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.08.01 18:51:12 WARN  no build target for: C:\Scala\q1.scala
+2022.08.01 18:51:12 WARN  no build target for: C:\Scala\q2.scala
+WARN  no build target: C:\Scala\q2.scala
+  C:\Scala\q2.scala
+2022.08.01 18:51:45 WARN  no build target for: C:\Scala\q2.scala
+2022.08.01 18:51:45 INFO  skipping build import with status 'Requested'
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+2022.08.01 18:55:05 WARN  no build target for: C:\Scala\q2.scala
+2022.08.01 18:55:08 INFO  shutting down Metals
+2022.08.01 18:55:08 ERROR Unexpected error initializing serverorg.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+2022.08.01 18:55:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Scala\.metals\lsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.08.01 18:55:35 INFO  logging to file C:\Scala\.metals\metals.log
+2022.08.01 18:55:35 INFO  Started: Metals version 0.11.7 in workspace 'C:\Scala' for client Visual Studio Code 1.69.2.
+2022.08.01 18:55:37 INFO  time: initialize in 1.54s
+2022.08.01 18:55:37 INFO  Deleting old database format C:\Scala\.metals\metals.h2.db
+2022.08.01 18:55:37 ERROR java.nio.file.FileSystemException: C:\Scala\.metals\metals.h2.db: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:274)
+	at sun.nio.fs.AbstractFileSystemProvider.delete(AbstractFileSystemProvider.java:105)
+	at java.nio.file.Files.delete(Files.java:1142)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.delete(MetalsEnrichments.scala:522)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:104)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:55)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.initialized(MetalsLanguageServer.scala:977)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.08.01 18:55:37 INFO  Deleting old database format C:\Scala\.metals\metals.h2.db
+2022.08.01 18:55:37 ERROR unable to setup persistent H2 database with AUTO_SERVER=false, falling back to in-memory database. This means you may be redundantly asked to execute 'Import build', even if it's not needed. Also, code navigation will not work for existing files in the .metals/readonly/ directory. To fix this problem, make sure you only have one running Metals server in the directory 'C:\Scala'.java.nio.file.FileSystemException: C:\Scala\.metals\metals.h2.db: The process cannot access the file because it is being used by another process.
+
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:92)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at sun.nio.fs.WindowsFileSystemProvider.implDelete(WindowsFileSystemProvider.java:274)
+	at sun.nio.fs.AbstractFileSystemProvider.delete(AbstractFileSystemProvider.java:105)
+	at java.nio.file.Files.delete(Files.java:1142)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionAbsolutePathBuffers.delete(MetalsEnrichments.scala:522)
+	at scala.meta.internal.metals.Tables.persistentConnection(Tables.scala:104)
+	at scala.meta.internal.metals.Tables.tryNoAutoServer(Tables.scala:72)
+	at scala.meta.internal.metals.Tables.tryAutoServer(Tables.scala:66)
+	at scala.meta.internal.metals.Tables.connect(Tables.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.initialized(MetalsLanguageServer.scala:977)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.08.01 18:55:37 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.01 18:55:37 INFO  Attempting to connect to the build server...
+2022.08.01 18:55:37 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:55:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.08.01 18:55:41 INFO  Attempting to connect to the build server...
+2022.08.01 18:55:41 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:55:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\project\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.08.01 18:55:47 INFO  no build target found for C:\Scala\q2.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.01 18:55:49 INFO  time: code lens generation in 6.58s
+2022.08.01 18:55:49 INFO  time: code lens generation in 6.58s
+2022.08.01 18:56:01 ERROR Timeout waiting for 'build/initialize' response
+2022.08.01 18:56:01 WARN  Retrying connection to the build server Bloop
+2022.08.01 18:56:01 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:56:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\project\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.08.01 18:56:21 ERROR Timeout waiting for 'build/initialize' response
+2022.08.01 18:56:21 WARN  Retrying connection to the build server Bloop
+2022.08.01 18:56:21 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:56:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\project\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.08.01 18:56:41 ERROR Timeout waiting for 'build/initialize' response
+2022.08.01 18:56:41 WARN  Retrying connection to the build server Bloop
+2022.08.01 18:56:41 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:56:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\project\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.08.01 18:57:01 ERROR Timeout waiting for 'build/initialize' response
+2022.08.01 18:57:01 WARN  Retrying connection to the build server Bloop
+2022.08.01 18:57:01 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:57:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\project\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2022.08.01 18:57:06 WARN  no build target for: C:\Scala\q2.scala
+2022.08.01 18:57:06 INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q2.scala
+  C:\Scala\q2.scala
+2022.08.01 18:57:09 WARN  no build target for: C:\Scala\q2.scala
+2022.08.01 18:57:09 INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q2.scala
+  C:\Scala\q2.scala
+2022.08.01 18:57:21 ERROR Timeout waiting for 'build/initialize' response
+2022.08.01 18:57:21 WARN  Retrying connection to the build server Bloop
+2022.08.01 18:57:21 INFO  Bloop uses C:\Users\Devin\.jabba\jdk\adopt@1.11.0-11 defined at C:\Users\Devin\.bloop\bloop.json
+2022.08.01 18:57:21 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Scala\project\.metals\bsp.trace.json or C:\Users\Devin\AppData\Local\scalameta\metals\cache\bsp.trace.json
+INFO  skipping build import with status 'Dismissed'
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q2.scala' because it doesn't belong to a build target.
+2022.08.01 18:57:41 ERROR Timeout waiting for 'build/initialize' response
+2022.08.01 18:57:41 ERROR Failed to connect with build server, no functionality will work.java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1886)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2021)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:437)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:347)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2022.08.01 18:57:41 WARN  no build target for: C:\Scala\q2.scala
+WARN  no build target: C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\q3.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\project\build.properties
+  C:\Scala\build.sbt
+  C:\Scala\q1.scala
+  C:\Scala\q2.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+Aug 01, 2022 10:05:23 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.decls()" because the return value of "scala.reflect.internal.Trees$Tree.tpe()" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.decls()" because the return value of "scala.reflect.internal.Trees$Tree.tpe()" is null
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Aug 01, 2022 10:05:23 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.decls()" because the return value of "scala.reflect.internal.Trees$Tree.tpe()" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.decls()" because the return value of "scala.reflect.internal.Trees$Tree.tpe()" is null
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Aug 01, 2022 10:05:24 PM scala.meta.internal.pc.Completions completionPosition
+SEVERE: Cannot invoke "scala.reflect.internal.Types$Type.decls()" because the return value of "scala.reflect.internal.Trees$Tree.tpe()" is null
+java.lang.NullPointerException: Cannot invoke "scala.reflect.internal.Types$Type.decls()" because the return value of "scala.reflect.internal.Trees$Tree.tpe()" is null
+	at scala.meta.internal.pc.Completions$CompletionPosition$Override.<init>(Completions.scala:948)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe(Completions.scala:467)
+	at scala.meta.internal.pc.Completions.completionPositionUnsafe$(Completions.scala:387)
+	at scala.meta.internal.pc.MetalsGlobal.completionPositionUnsafe(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.Completions.completionPosition(Completions.scala:379)
+	at scala.meta.internal.pc.Completions.completionPosition$(Completions.scala:364)
+	at scala.meta.internal.pc.MetalsGlobal.completionPosition(MetalsGlobal.scala:23)
+	at scala.meta.internal.pc.CompletionProvider.safeCompletionsAt(CompletionProvider.scala:397)
+	at scala.meta.internal.pc.CompletionProvider.completions(CompletionProvider.scala:47)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$complete$1(ScalaPresentationCompiler.scala:86)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:119)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withInterruptableCompiler$1(CompilerAccess.scala:76)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:191)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:73)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+WARN  no build target: C:\Scala\q3.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'C:\Scala\q1.scala' because it doesn't belong to a build target.
+WARN  no build target: C:\Scala\q1.scala
+INFO  skipping build import with status 'Dismissed'
+WARN  no build target: 
